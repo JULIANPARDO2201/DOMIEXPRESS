@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+bin/
+build/
+out/
+target/
+.gradle/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
