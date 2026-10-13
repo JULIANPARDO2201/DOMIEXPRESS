@@ -1,7 +1,4 @@
-/**
- * Factory Method: esta clase escribe el flujo de cobro una sola vez.
- * Cada subclase decide que pasarela crear. Aqui no hay if por tipo de pago.
- */
+//Factory Method
 public abstract class ProcesadorPago {
 
     protected abstract PasarelaPago crearPasarela();

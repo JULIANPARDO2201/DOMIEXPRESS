@@ -1,7 +1,3 @@
-/**
- * Una sola responsabilidad: imprimir el pedido.
- * Si cambia el formato del resumen, esta es la unica clase que se toca.
- */
 public class ResumenPedido {
 
     public void mostrar(Pedido pedido) {
